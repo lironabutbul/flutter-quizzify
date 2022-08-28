@@ -127,7 +127,7 @@ class _QuizPageState extends State<QuizPage> {
                   backgroundColor: Colors.red,
                 ),
                 onPressed: () {
-                  checkAnswer(true);
+                  checkAnswer(false);
                 },
                 child: Text(
                   'False',
