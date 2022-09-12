@@ -72,8 +72,8 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/during_the_quiz.png" height="auto" width="200" />
-  <img src="readme_assets/finish_quiz.png" height="auto" width="200" />
+  <img src="readme_assets/during_the_quiz.png" height="auto" width="30%" />
+  <img src="readme_assets/finish_quiz.png" height="auto" width="30%" />
 </div>
 <br />
 Quizzify App is an simple and intuitive mobile quiz application that contains 13 choice questions about facts - After each answer, will be added to the check bar at the bottom of the application an Icon marked with `V` (Correct) or `X` (Wrong).
